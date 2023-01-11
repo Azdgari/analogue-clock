@@ -1,1 +1,3 @@
-# A simple analogue clock made using CSS and vanilla Javascript.
+# Clock
+
+A simple analogue clock made using CSS and vanilla Javascript.
